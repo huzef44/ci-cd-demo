@@ -6,3 +6,4 @@
 This repository is the sample of web application using golang.
 This change directly build the process on jenkins
 hello
+Good morning
